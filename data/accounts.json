@@ -1,0 +1,18 @@
+{
+    "parth": {
+        "pin": "1234",
+        "balance": 10000000000
+    },
+    "gyan": {
+        "pin": "1111",
+        "balance": 17000
+    },
+    "vansh": {
+        "pin": "2222",
+        "balance": 2000
+    },
+    "bikki": {
+        "pin": "3333",
+        "balance": 2000
+    }
+}
